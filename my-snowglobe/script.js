@@ -3,12 +3,13 @@ const button = document.querySelector("#shake");
 const message = document.querySelector("#message");
 
 const messages = [
-    "you are someone's favourite person to sit next to.",
-    "the thing you are building counts, even half finished.",
-    "you are allowed to be a beginner for as long as you need.",
-    "someone is going to love what you make with this.",
-    "hot chocolate tastes better after a hard day.",
-    "you ask good questions. that is the whole skill.",
+    "snow looks prettiest when you're warm inside",
+    "you deserve a warm blanket and a quiet moment",
+    "soft snow makes every heavy thing look lighter",
+    "it is okay to stay in and rest today",
+    "a hot drink tastes better when it is cold outside",
+    "footprints in the snow means you are making progress",
+    "even the coldest days run out of hours",
 ];
 
 button.addEventListener("click", () => {

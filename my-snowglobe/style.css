@@ -25,6 +25,11 @@ main {
     padding: 0 1rem 4rem;
 }
 
+footer {
+    text-align: center;
+    margin-top: -33px;
+}
+
 .globe-card {
     background: #fdf7e8;
     border: 2px solid #235fd4;
@@ -35,7 +40,7 @@ main {
     gap: 1.25rem;
 }
 
-#message {
+.message {
     font-style: italic;
 }
 
